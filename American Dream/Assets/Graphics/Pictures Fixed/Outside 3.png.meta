@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 1519c6596323f604e91a70158ac8c885
-timeCreated: 1521835987
+timeCreated: 1521923590
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -1077,16 +1077,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - buildTarget: iPhone
-    maxTextureSize: 8192
-    resizeAlgorithm: 1
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - buildTarget: tvOS
     maxTextureSize: 8192
     resizeAlgorithm: 1
     textureFormat: -1
