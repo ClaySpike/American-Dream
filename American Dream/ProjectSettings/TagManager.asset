@@ -56,12 +56,12 @@ TagManager:
   - name: Player
     uniqueID: 1502416775
     locked: 0
+  - name: Objects 2
+    uniqueID: 3096192225
+    locked: 0
   - name: Buildings Top
     uniqueID: 710762621
     locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Objects 2
-    uniqueID: 3096192225
     locked: 0
