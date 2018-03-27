@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Outside Area.unity
+    guid: 6d028793fd8892d49b6ff436214326fc
+  - enabled: 1
+    path: Assets/Scenes/Building 1 Floor 1.unity
+    guid: 6d88827201414df4eb521d21bb27ccf3

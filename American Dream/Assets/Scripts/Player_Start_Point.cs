@@ -10,7 +10,7 @@ public class Player_Start_Point : MonoBehaviour {
     public Vector2 startDirection;
 
 	// Use this for initialization
-	void Start () {
+	void Startz () {
         thePlayer = FindObjectOfType<Player_Controller>();
         theCamera = FindObjectOfType<Camera_Controller>();
 

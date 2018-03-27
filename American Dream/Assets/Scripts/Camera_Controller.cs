@@ -10,6 +10,8 @@ public class Camera_Controller : MonoBehaviour {
     private Vector3 targetPos;
     public float moveSpeed;
 
+    public GameObject blackCam;
+
 	// Use this for initialization
 	void Start () {
         if (!cameraExists)
@@ -32,5 +34,15 @@ public class Camera_Controller : MonoBehaviour {
     {
         targetPos = new Vector3(target.transform.position.x, target.transform.position.y, -10f);
         transform.position = Vector3.Lerp(transform.position, targetPos, moveSpeed);
+    }
+
+    public void SetreActive()
+    {
+
+    }
+
+    public void SetDeactive()
+    {
+
     }
 }
