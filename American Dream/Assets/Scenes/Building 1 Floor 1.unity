@@ -1446,12 +1446,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7ceba0f6e597f54e93ad01671d15c6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: 
+  levelToLoad: Building 1 Floor 2
   thePlayer: {fileID: 0}
   theCamera: {fileID: 0}
-  startDirection: {x: 0, y: 0}
-  xPos: 0
-  yPos: 0
+  startDirection: {x: -1, y: 0}
+  xPos: 6.5
+  yPos: 4.5
 --- !u!1 &616605994
 GameObject:
   m_ObjectHideFlags: 0
