@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Building 1 Floor 1.unity
     guid: 6d88827201414df4eb521d21bb27ccf3
+  - enabled: 1
+    path: Assets/Scenes/Building 1 Floor 2.unity
+    guid: b00d659dc71ad12439a1347cac7cf8ae
