@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Building 3 Floor 1.unity
+- path: Assets/Scenes/Outside Area.unity
   isLoaded: 1
   isActive: 1
